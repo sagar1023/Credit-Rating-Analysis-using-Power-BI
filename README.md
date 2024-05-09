@@ -38,4 +38,5 @@ Using Power BI, you analyzed customer data, revealing crucial insights into offe
 The interactive dashboard allows stakeholders to identify key trends and make data-driven decisions efficiently.
 
 ![image](https://github.com/sagar1023/Credit-Rating-Analysis-using-Power-BI/assets/125538858/3c15bc80-e997-4ad0-95c8-35106a66ff9f)
+![image](https://github.com/sagar1023/Credit-Rating-Analysis-using-Power-BI/assets/125538858/6bada9fe-f645-4e14-aa36-9b523c9f1571)
 
