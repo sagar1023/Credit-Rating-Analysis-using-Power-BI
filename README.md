@@ -34,7 +34,7 @@ Overdraft protection status
 Average balance
 
 Conclusion:
-Using Power BI, you analyzed customer data, revealing crucial insights into offer acceptance rates and customer preferences. 
+Using Power BI, I analyzed customer data, revealing crucial insights into offer acceptance rates and customer preferences. 
 The interactive dashboard allows stakeholders to identify key trends and make data-driven decisions efficiently.
 
 ![image](https://github.com/sagar1023/Credit-Rating-Analysis-using-Power-BI/assets/125538858/3c15bc80-e997-4ad0-95c8-35106a66ff9f)
